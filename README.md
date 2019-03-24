@@ -20,6 +20,5 @@ DummyClassifier | 0.516 | 0.480779 | 0.483824 | 0.481079 | 0.517320
 
 <br>
 Feature importance graph:
-<br>
 
 ![logo](./images/feature_importance_sklearn.png?raw=true)
